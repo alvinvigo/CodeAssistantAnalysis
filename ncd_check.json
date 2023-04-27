@@ -1,0 +1,1481 @@
+{
+  "Configuration" : "valid",
+  "Strategy" : "lzjd",
+  "MinWindowSizeRatio" : "0.8",
+  "MaxWindowSizeRatio" : "1.2",
+  "WindowSize" : "1, 2",
+  "DistanceThreshold" : "0.5",
+  "QueryLanguage" : "PYTHON",
+  "TargetLanguage" : "PYTHON",
+  "MultiThreading" : "Disabled",
+  "Query" : "identifier ",
+  "QuerySize" : "1",
+  "UseNormalization" : "false",
+  "UseSeparator" : "true",
+  "AllowOverlap" : "false",
+  "LinkStyle" : "None",
+  "Charset" : "UTF-8",
+  "SourcePath" : "[outforncd]",
+  "Result" : [ {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Sherly_015.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Sherly_014.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Sherly_013.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Sherly_013.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Sherly_013.py",
+    "StartLine" : 15,
+    "EndLine" : 15,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Sherly_006.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Sherly_005.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Panji_014.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Panji_013.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Panji_013.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Panji_006.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Panji_005.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Panji_005.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.4
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Panji_005.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Panji_005.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.4
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Panji_005.py",
+    "StartLine" : 14,
+    "EndLine" : 14,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Nita_015.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Nita_014.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Nita_013.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Nita_013.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Nita_013.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Nita_013.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Nita_006.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Nita_005.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Nita_005.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.4
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Nita_005.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Nita_005.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Naufal_013.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Naufal_013.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Naufal_013.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Naufal_013.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Naufal_006.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Naufal_005.py",
+    "StartLine" : 3,
+    "EndLine" : 3,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Naufal_005.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_nan_014.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_nan_013.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_nan_013.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_nan_006.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_nan_005.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_nan_005.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.4
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_nan_005.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_nan_005.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.4
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_nan_005.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_nan_005.py",
+    "StartLine" : 15,
+    "EndLine" : 15,
+    "Distance" : 0.4
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_nan_005.py",
+    "StartLine" : 16,
+    "EndLine" : 16,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Fedra_006.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Fedra_005.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Fedra_005.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.4
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Fedra_005.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Fedra_005.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Fadhlih_005.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.4
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Calvin_014.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Calvin_013.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Calvin_013.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Calvin_006.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Calvin_005.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Calvin_005.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.4
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Calvin_005.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Calvin_005.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Alvin_015.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Alvin_014.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Alvin_013.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Alvin_013.py",
+    "StartLine" : 14,
+    "EndLine" : 14,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Alvin_013.py",
+    "StartLine" : 17,
+    "EndLine" : 17,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Alvin_013.py",
+    "StartLine" : 20,
+    "EndLine" : 20,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Alvin_013.py",
+    "StartLine" : 21,
+    "EndLine" : 21,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Alvin_006.py",
+    "StartLine" : 14,
+    "EndLine" : 14,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Alvin_005.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Alvin_005.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Ahya_015.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Ahya_014.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Ahya_014.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Ahya_013.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Ahya_013.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Ahya_006.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Ahya_005.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Ahya_005.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.4
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Ahya_005.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/StackOverflow_Ahya_005.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Sherly_010.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Sherly_004.py",
+    "StartLine" : 3,
+    "EndLine" : 3,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Sherly_003.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Panji_011.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Panji_010.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Panji_010.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Panji_010.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Panji_010.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Panji_010.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Panji_010.py",
+    "StartLine" : 14,
+    "EndLine" : 14,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Panji_004.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Panji_003.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Nita_012.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Nita_010.py",
+    "StartLine" : 2,
+    "EndLine" : 2,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Nita_010.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Nita_010.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Nita_010.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Nita_010.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Nita_010.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Nita_010.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Nita_010.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Nita_004.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Nita_004.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Nita_003.py",
+    "StartLine" : 16,
+    "EndLine" : 16,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_012.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_011.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_010.py",
+    "StartLine" : 3,
+    "EndLine" : 3,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_010.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_010.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_010.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_010.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_010.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_010.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_010.py",
+    "StartLine" : 14,
+    "EndLine" : 14,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_004.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_004.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Naufal_003.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_nan_011.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_nan_010.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_nan_010.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_nan_010.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_nan_010.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_nan_010.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_nan_010.py",
+    "StartLine" : 16,
+    "EndLine" : 16,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_nan_004.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_nan_003.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Fedra_012.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Fedra_011.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Fedra_010.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Fedra_010.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Fedra_010.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Fedra_004.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Fedra_004.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Fedra_003.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Fadhlih_011.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.46153846153846156
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Fadhlih_004.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Fadhlih_004.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Fadhlih_003.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Calvin_011.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Calvin_010.py",
+    "StartLine" : 3,
+    "EndLine" : 3,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Calvin_010.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Calvin_010.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Calvin_004.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Calvin_004.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Calvin_003.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Alvin_010.py",
+    "StartLine" : 3,
+    "EndLine" : 3,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Alvin_010.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Alvin_010.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Alvin_010.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Alvin_010.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Alvin_010.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Alvin_010.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Alvin_010.py",
+    "StartLine" : 15,
+    "EndLine" : 15,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Alvin_004.py",
+    "StartLine" : 3,
+    "EndLine" : 3,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Alvin_003.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Alvin_003.py",
+    "StartLine" : 17,
+    "EndLine" : 17,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Ahya_012.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Ahya_011.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Ahya_010.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Ahya_010.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Ahya_010.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Ahya_004.py",
+    "StartLine" : 3,
+    "EndLine" : 3,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/GoogleSearch_Ahya_003.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_008.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_007.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_007.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_007.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_007.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_007.py",
+    "StartLine" : 14,
+    "EndLine" : 14,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_007.py",
+    "StartLine" : 15,
+    "EndLine" : 15,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_002.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_002.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_002.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_001.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_001.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_001.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_001.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_001.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Sherly_001.py",
+    "StartLine" : 14,
+    "EndLine" : 14,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_008.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_007.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_007.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_007.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_007.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_007.py",
+    "StartLine" : 16,
+    "EndLine" : 16,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_007.py",
+    "StartLine" : 19,
+    "EndLine" : 19,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_002.py",
+    "StartLine" : 15,
+    "EndLine" : 15,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_001.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_001.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_001.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_001.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_001.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Panji_001.py",
+    "StartLine" : 14,
+    "EndLine" : 14,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_009.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_009.py",
+    "StartLine" : 14,
+    "EndLine" : 14,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_008.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_007.py",
+    "StartLine" : 3,
+    "EndLine" : 3,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_007.py",
+    "StartLine" : 4,
+    "EndLine" : 4,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_007.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_007.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_007.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_007.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_002.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_001.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_001.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_001.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_001.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_001.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Nita_001.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_009.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_008.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_007.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_007.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_007.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_007.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_007.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_002.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_001.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_001.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_001.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_001.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_001.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Naufal_001.py",
+    "StartLine" : 14,
+    "EndLine" : 14,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_009.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_008.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_008.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_007.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_007.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_007.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_007.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_007.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_007.py",
+    "StartLine" : 17,
+    "EndLine" : 17,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_002.py",
+    "StartLine" : 20,
+    "EndLine" : 20,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_001.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_001.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_001.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_001.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_001.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_nan_001.py",
+    "StartLine" : 14,
+    "EndLine" : 14,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fedra_008.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fedra_007.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fedra_007.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fedra_007.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fedra_007.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fedra_002.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fedra_001.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fadhlih_008.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fadhlih_007.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fadhlih_007.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fadhlih_007.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fadhlih_002.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Fadhlih_002.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_008.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_007.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_007.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_007.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_007.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_007.py",
+    "StartLine" : 13,
+    "EndLine" : 13,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_007.py",
+    "StartLine" : 14,
+    "EndLine" : 14,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_002.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_002.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_002.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_002.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_002.py",
+    "StartLine" : 16,
+    "EndLine" : 16,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_002.py",
+    "StartLine" : 17,
+    "EndLine" : 17,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_001.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_001.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_001.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_001.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_001.py",
+    "StartLine" : 16,
+    "EndLine" : 16,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Calvin_001.py",
+    "StartLine" : 17,
+    "EndLine" : 17,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Alvin_009.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Alvin_009.py",
+    "StartLine" : 18,
+    "EndLine" : 18,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Alvin_008.py",
+    "StartLine" : 7,
+    "EndLine" : 7,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Alvin_007.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Alvin_007.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Alvin_007.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Alvin_007.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Alvin_007.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Alvin_007.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Alvin_002.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Alvin_001.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Ahya_009.py",
+    "StartLine" : 12,
+    "EndLine" : 12,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Ahya_009.py",
+    "StartLine" : 20,
+    "EndLine" : 20,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Ahya_008.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Ahya_007.py",
+    "StartLine" : 5,
+    "EndLine" : 5,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Ahya_007.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Ahya_007.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Ahya_007.py",
+    "StartLine" : 9,
+    "EndLine" : 9,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Ahya_007.py",
+    "StartLine" : 10,
+    "EndLine" : 10,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Ahya_007.py",
+    "StartLine" : 11,
+    "EndLine" : 11,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Ahya_002.py",
+    "StartLine" : 8,
+    "EndLine" : 8,
+    "Distance" : 0.5
+  }, {
+    "FileName" : "/mnt/c/Users/Attacker/Downloads/sakuraScience/alvin/outforncd/ChatGPT_Ahya_001.py",
+    "StartLine" : 6,
+    "EndLine" : 6,
+    "Distance" : 0.5
+  } ],
+  "Time" : 1593
+}

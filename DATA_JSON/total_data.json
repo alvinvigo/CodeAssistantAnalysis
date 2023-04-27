@@ -1,0 +1,19 @@
+{
+    "output": {
+        "StackOverflow_Calvin_014.py": {
+            "Levels": {
+                "A1": 12,
+                "B1": 3,
+                "A2": 3
+            },
+            "Class": {
+                "Simple List": 6,
+                " List Dictionary": 2,
+                "Print": 1,
+                "Simple Atributte": 3,
+                "Simple Assignment": 5,
+                "Import with 'as' extension ": 1
+            }
+        }
+    }
+}

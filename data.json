@@ -1,0 +1,132 @@
+{
+    "output": {
+        "StackOverflow_Calvin_014.py": [
+            {
+                "Class": "Simple List",
+                "Start Line": "2",
+                "End Line": "2",
+                "Displacement": "25",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple List",
+                "Start Line": "2",
+                "End Line": "2",
+                "Displacement": "71",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple List",
+                "Start Line": "4",
+                "End Line": "4",
+                "Displacement": "27",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple List",
+                "Start Line": "4",
+                "End Line": "4",
+                "Displacement": "82",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple List",
+                "Start Line": "7",
+                "End Line": "7",
+                "Displacement": "18",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple List",
+                "Start Line": "7",
+                "End Line": "7",
+                "Displacement": "31",
+                "Level": "A1"
+            },
+            {
+                "Class": "2 List Dictionary",
+                "Start Line": "2",
+                "End Line": "2",
+                "Displacement": "13",
+                "Level": "B1"
+            },
+            {
+                "Class": "2 List Dictionary",
+                "Start Line": "4",
+                "End Line": "4",
+                "Displacement": "15",
+                "Level": "B1"
+            },
+            {
+                "Class": "Print",
+                "Start Line": "9",
+                "End Line": "9",
+                "Displacement": "0",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "3",
+                "End Line": "3",
+                "Displacement": "4",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "5",
+                "End Line": "5",
+                "Displacement": "4",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "7",
+                "End Line": "7",
+                "Displacement": "8",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Assignment",
+                "Start Line": "2",
+                "End Line": "2",
+                "Displacement": "0",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple Assignment",
+                "Start Line": "3",
+                "End Line": "3",
+                "Displacement": "0",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple Assignment",
+                "Start Line": "4",
+                "End Line": "4",
+                "Displacement": "0",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple Assignment",
+                "Start Line": "5",
+                "End Line": "5",
+                "Displacement": "0",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple Assignment",
+                "Start Line": "7",
+                "End Line": "7",
+                "Displacement": "0",
+                "Level": "A1"
+            },
+            {
+                "Class": "Import with 'as' extension ",
+                "Start Line": "1",
+                "End Line": "1",
+                "Displacement": "0",
+                "Level": "B1"
+            }
+        ]
+    }
+}
